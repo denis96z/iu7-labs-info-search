@@ -1,0 +1,12 @@
+### IDE ###
+/.idea/
+/.vscode/
+/.vim/
+
+### vim ###
+tags
+
+### cmake ###
+/build/
+/cmake-build-debug/
+/cmake-build-release/
